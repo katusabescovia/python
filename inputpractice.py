@@ -1,0 +1,17 @@
+# name=input("type here your name")
+# x = int(input("type here values:"))
+# print(type(x))
+# para=input("enter your characters")
+# print(para[0])
+# p= eval(input("enter an expressioon"))
+# print(p)
+# c= eval(input("enter an expressioon"))
+# print(c)
+def main():
+    s=eval(input("enter an expressioon"))
+    print(s)
+    print(type(s))
+    paragraph="helo world"
+    print(paragraph)
+main() 
+main()    
